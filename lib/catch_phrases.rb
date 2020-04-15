@@ -13,9 +13,9 @@ def link
   puts voice_line
 end
 
-def great_lines
-  puts mario
-  puts toadstool
-  puts link
+def all_phrases
+  mario
+  link
+  toadstool
 
 end
