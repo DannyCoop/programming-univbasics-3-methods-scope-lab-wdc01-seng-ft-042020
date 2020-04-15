@@ -12,3 +12,10 @@ def link
   voice_line = "It's Dangerous To Go Alone! Take This."
   puts voice_line
 end
+
+def great_lines
+  puts mario
+  puts toadstool
+  puts link
+
+end
